@@ -6,6 +6,7 @@ public class GitTestApplication {
 		// TODO Auto-generated method stub
 		System.out.println("\nHello Git!\n");
 		System.out.println("This is my first Git change!\n");
+		System.out.println("Hello Git, from branch bug#1234!!\n");
 	}
 
 }
